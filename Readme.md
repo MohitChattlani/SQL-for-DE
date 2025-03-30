@@ -26,9 +26,6 @@ This repository contains a collection of basic SQL queries to help beginners lea
 ## Contribution
 Feel free to contribute by adding more queries or improving the existing ones. Fork the repository, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 Special thanks to all contributors and SQL learners for their valuable input!
 
